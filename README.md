@@ -25,7 +25,6 @@
 **Application and Data**
 
 <code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg" alt="python"/></code>
-<code><img height="32" src="https://lh3.googleusercontent.com/proxy/Gbyv-5X6Lqajx1CcCONHG9USmljZRbSB_d9Bbp4vbbBNZ7QHRUVpZiTHNemx8A7DN7ctra1XNHyOVrOS7Ds-3h7scVg" alt="django"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
