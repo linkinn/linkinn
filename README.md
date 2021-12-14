@@ -6,12 +6,24 @@
   I'm a Devops Engineer. I have experience with:
 </p>
 
+<li>
 ✅ Cloud | Azure | AWS
+</li>  
+<li>
 ✅ Linux | Windows | Mac
+</li>  
+<li>
 ✅ Python | NodeJS | Golang
+</li>  
+<li>
 ✅ PostgreSQL / MySQL / MongoDB
+</li>  
+<li>
 ✅ Docker | Kubernetes | Terraform
+</li>  
+<li>
 ✅ Github Actions
+</li>
 
 <p align="center">
   <a href="https://github.com/linkinn">
