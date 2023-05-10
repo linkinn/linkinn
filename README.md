@@ -34,12 +34,11 @@ I firmly believe in following the principles of the small act manifest, which in
 
 <p align="center">
   <a href="https://github.com/linkinn">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linkinn&layout=compact&show_owner=true&theme=chartreuse-dark" />
-  </a>
-  <a href="https://github.com/linkinn">
     <img src="https://github-readme-stats.vercel.app/api?username=linkinn&layout=compact&show_icons=true&show_owner=true&theme=chartreuse-dark" />
   </a>
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/fillipi-nascimento-35128070/)
+  <a href="https://github.com/linkinn">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linkinn&layout=compact&show_owner=true&theme=chartreuse-dark" />
+  </a>
 </p>
 
 <!--
