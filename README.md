@@ -35,26 +35,10 @@ I firmly believe in following the principles of the small act manifest, which in
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/fillipi-nascimento-35128070/)
 </p>
 
+# Analytics ⚙️
+
 <p align="center">
-  <a href="https://github.com/linkinn">
-    <img src="https://github-readme-stats.vercel.app/api?username=linkinn&layout=compact&show_icons=true&show_owner=true&theme=chartreuse-dark" />
-  </a>
-  <a href="https://github.com/linkinn">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linkinn&layout=compact&show_owner=true&theme=chartreuse-dark" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?user=linkinn&theme=bear&showIcons=true">
+    <img  alt="Bruno Brito's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/linkinn?theme=bear" />
   </a>
 </p>
-
-<!--
-**linkinn/linkinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
